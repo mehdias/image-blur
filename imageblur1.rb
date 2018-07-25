@@ -1,3 +1,5 @@
+// image blur1
+
 class Image
   def initialize(array)
     @array = array
